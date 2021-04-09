@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is to make a simple working search bar
 
 A few resources to get you started if this is your first Flutter project:
 
